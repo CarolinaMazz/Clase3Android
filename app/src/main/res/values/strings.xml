@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Clase03</string>
+    <string name="ruc">RUC</string>
+    <string name="rasonsocial">Razon Social</string>
+    <string name="activo">Activo</string>
+    <string name="inactivo">Inactivo</string>
+    <string name="txt_noti">Recibe Notificaciones</string>
+    <string name="txt_verificar">Verificar</string>
 </resources>
